@@ -1,0 +1,15 @@
+span {
+    display: inline-block;
+    
+}
+
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+img {
+    border-radius: 10px;
+    border-style: groove;
+    
+}
